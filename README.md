@@ -21,3 +21,5 @@ _\*This app is intended for use by school systems to route and manage transporta
 - PostgreSQL
   - The necessary queries to build the tables can be found in the 'queries.sql' file.
   - The database is named 'trans'.
+
+## Installation
